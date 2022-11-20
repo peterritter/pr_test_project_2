@@ -8,3 +8,8 @@ Change 7 (local)
 Change 8 (remote)
 
 Change 9
+
+-----------
+Feature B
+-----------
+Change 1
